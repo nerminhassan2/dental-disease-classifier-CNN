@@ -6,12 +6,17 @@ The DentalDiseaseClassifier is a convolutional neural network (CNN) multi-label 
 This model utilizes a CNN architecture to analyze dental images and classify them into multiple categories simultaneously. Its multi-label classification capability enables it to identify several dental conditions in a single image, helping dental professionals assess patients’ needs more comprehensively.
 
 ## Key Features:
-### Multi-Label Classification: The model can detect multiple dental conditions from a single image, allowing for accurate and efficient categorization.
-### CNN Architecture: Built on MobileNetV2, the model balances performance and speed, making it suitable for mobile integration as part of the DentaMatch application.
-### Transfer Learning: The model has been fine-tuned on a dental-specific dataset to optimize its accuracy for the task of dental case classification.
+### Multi-Label Classification: 
+The model can detect multiple dental conditions from a single image, allowing for accurate and efficient categorization.
+### CNN Architecture: 
+Built on MobileNetV2, the model balances performance and speed, making it suitable for mobile integration as part of the DentaMatch application.
+### Transfer Learning: 
+The model has been fine-tuned on a dental-specific dataset to optimize its accuracy for the task of dental case classification.
 ## Solution
 As part of DentaMatch, the DentalDiseaseClassifier serves key functions:
-### Efficient Case Matching: It helps dental students and professionals quickly identify patients with the specific dental conditions they need for practical experience, reducing the time and effort spent finding suitable cases.
-### Improved Healthcare Delivery: By automating the categorization of dental images, the model significantly reduces waiting times for patients while enhancing the efficiency of dental care services within universities.
+### Efficient Case Matching: 
+It helps dental students and professionals quickly identify patients with the specific dental conditions they need for practical experience, reducing the time and effort spent finding suitable cases.
+### Improved Healthcare Delivery: 
+By automating the categorization of dental images, the model significantly reduces waiting times for patients while enhancing the efficiency of dental care services within universities.
 ## Summary
 The Dental Disease Classifier is a crucial component of DentaMatch app, ensuring faster, more effective connections between dentists and patients while improving educational and clinical outcomes.
