@@ -18,5 +18,9 @@ As part of DentaMatch, the DentalDiseaseClassifier serves key functions:
 It helps dental students and professionals quickly identify patients with the specific dental conditions they need for practical experience, reducing the time and effort spent finding suitable cases.
 ### Improved Healthcare Delivery: 
 By automating the categorization of dental images, the model significantly reduces waiting times for patients while enhancing the efficiency of dental care services within universities.
+## Future Enhancements
+The model can be extended to include more dental diseases as new data becomes available.
+## Data Source
+Some of the data used for training the model was sourced from Kaggle: https://www.kaggle.com/datasets/salmansajid05/oral-diseases
 ## Summary
 The Dental Disease Classifier is a crucial component of DentaMatch app, ensuring faster, more effective connections between dentists and patients while improving educational and clinical outcomes.
